@@ -1,6 +1,21 @@
 Energy-project
 Data science for energy systems final project
 
+
+
+
+**Summary to Run:
+
+Go to the folder: 'final-applying-ga-to-all-cities'
+run: 'ga-on-normalised-data.pyn'
+
+All the processes - data cleaning, data to electricity - have been condensed into a CSV file 'df_input_to_ga.csv'
+
+
+
+
+**Decription of the process:
+
 1. wind-solar-functions **(20 percent of the time)
     i. CSV file : contains wind power curves data
     ii. PYNB file : contains master wind and solar functions
